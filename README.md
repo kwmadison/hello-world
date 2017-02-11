@@ -1,4 +1,3 @@
 # hello-world
 this is my hello-world repo
-this is my first repo
-isn't this great?
+I'm quite new at this as is obvious
